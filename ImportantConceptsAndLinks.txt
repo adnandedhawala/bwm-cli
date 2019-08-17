@@ -1,0 +1,5 @@
+Angular Modules :-
+    -> Refer This link :- https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407 
+
+Lifecycle Methods:-
+    -> Refer this link :- https://angular.io/guide/lifecycle-hooks
